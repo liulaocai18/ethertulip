@@ -2,8 +2,6 @@
 
 Announcing ethertulip.com
 
-A celebration of jpeg wealth 🌷
-
 Unlike commonly believed, the tulip mania was not a mania, but rather a celebration of newfound wealth within a subset of society.
 
 We are witnessing history repeat itself.
