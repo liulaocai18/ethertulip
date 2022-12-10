@@ -4,7 +4,7 @@ pragma solidity ^0.8.7;
 import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 
 contract StreamETH is Ownable {
-    address[] public _recipients;
+    address[] public _recipients; // all receive address
     uint256[] public _shareBPS;
 
     event Distributed(uint256 balance);
